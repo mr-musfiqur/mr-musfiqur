@@ -25,6 +25,9 @@ h1 + p, p + p {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+
+  /* custom */
+  flex-flow: row;
 }
 .card-wrap {
   margin: 10px;
@@ -147,3 +150,4 @@ h1 + p, p + p {
   border-radius: 1rem;
 }
 /* END Horizontal scroll snap */
+/* _________________________________________________________________________________________________________________________________________ */
