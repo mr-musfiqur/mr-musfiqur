@@ -9,6 +9,7 @@
   white-space: nowrap;
 
   display: flex;
+  display: inline-block;
 
   .cardz {
     display: inline-block;
