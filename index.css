@@ -14,6 +14,9 @@
     display: inline-block;
   }
 }
+.cardz {
+  display: inline-block;
+}
 /*START Parallax Depth Cards class="1.1" */
 body {
   margin: 40px 0;
